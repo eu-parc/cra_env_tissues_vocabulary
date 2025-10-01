@@ -117,7 +117,7 @@ envtissues:
   name: Animal - eggs
   parent_matrix: animal
   unique_name: animalEggs
-  
+
 - aggregation_target: false
   id: animalBone
   short_name: animalBone
