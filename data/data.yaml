@@ -1,0 +1,109 @@
+envtissues:
+- aggregation_target: false
+  id: plant
+  short_name: plant
+  name: Plant - Whole plant
+  parent_matrix:
+  unique_name: plant
+- aggregation_target: false
+  id: plantSeed
+  short_name: plantSeed
+  name: Plant - seed
+  parent_matrix: plant
+  unique_name: plantSeed
+- aggregation_target: false
+  id: plantLeaves
+  short_name: plantLeaves
+  name: Plant - Leaves
+  parent_matrix: plant
+  unique_name: plantLeaves
+- aggregation_target: false
+  id: plantNeedles
+  short_name: plantNeedles
+  name: Plant - needles
+  parent_matrix: plant
+  unique_name: plantNeedles
+- aggregation_target: false
+  id: plantRoot
+  short_name: plantRoot
+  name: Plant - root
+  parent_matrix: plant
+  unique_name: plantRoot
+- aggregation_target: false
+  id: plantFruit
+  short_name: plantFruit
+  name: Plant - fruit
+  parent_matrix: plant
+  unique_name: plantFruit
+- aggregation_target: false
+  id: plantBark
+  short_name: plantBark
+  name: Plant - bark
+  parent_matrix: plant
+  unique_name: plantBark
+- aggregation_target: false
+  id: plantWood
+  short_name: plantWood
+  name: Plant - wood
+  parent_matrix: plant
+  unique_name: plantWood
+- aggregation_target: false
+  id: animal
+  short_name: animal
+  name: Animal
+  parent_matrix:
+  unique_name: animal
+- aggregation_target: false
+  id: animalBlood
+  short_name: animalBlood
+  name: Animal - blood
+  parent_matrix: animal
+  unique_name: animalBlood
+- aggregation_target: false
+  id: animalLiver
+  short_name: animalLiver
+  name: Animal - liver
+  parent_matrix: animal
+  unique_name: animalLiver
+- aggregation_target: false
+  id: animalKidney
+  short_name: animalKidney
+  name: Animal - kidney
+  parent_matrix: animal
+  unique_name: animalKidney
+- aggregation_target: false
+  id: animalBlood
+  short_name: animalBlood
+  name: Animal - blood
+  parent_matrix: animal
+  unique_name: animalBlood
+- aggregation_target: false
+  id: animalMuscle
+  short_name: animalMuscle
+  name: Animal - muscle
+  parent_matrix: animal
+  unique_name: animalMuscle
+- aggregation_target: false
+  id: animalFat
+  short_name: animalFat
+  name: Animal - fat
+  parent_matrix: animal
+  unique_name: animalFat
+- aggregation_target: false
+  id: animalHair
+  short_name: animalHair
+  name: Animal - hair
+  parent_matrix: animal
+  unique_name: animalHair
+- aggregation_target: false
+  id: animalEggs
+  short_name: animalEggs
+  name: Animal - eggs
+  parent_matrix: animal
+  unique_name: animalEggs
+- aggregation_target: false
+  id: animalBone
+  short_name: animalBone
+  name: Animal - bone
+  parent_matrix: animal
+  unique_name: animalBone
