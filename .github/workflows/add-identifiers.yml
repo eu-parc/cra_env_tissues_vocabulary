@@ -19,7 +19,7 @@ jobs:
             target_name: envtissues
             parent_key: parent_matrix
             preflabel: unique_name
-            type_prefix: TIS-
+            type_prefix: TIS
             namespace: https://w3id.org/crahub/
             artefact_name: data-with-id.yaml
             output: data-with-id.yaml
