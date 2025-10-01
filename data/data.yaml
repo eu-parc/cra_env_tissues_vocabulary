@@ -1,119 +1,103 @@
 envtissues:
 - aggregation_target: false
-  id: plant
+  id: https://w3id.org/crahub/TIS--9ea0a36b3a
   short_name: plant
   name: Plant - Whole plant
-  parent_matrix:
+  parent_matrix: null
   unique_name: plant
-
 - aggregation_target: false
-  id: plantSeed
+  id: https://w3id.org/crahub/TIS--b1b6a781ae
   short_name: plantSeed
   name: Plant - seed
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantSeed
-
 - aggregation_target: false
-  id: plantLeaves
+  id: https://w3id.org/crahub/TIS--d16489c061
   short_name: plantLeaves
   name: Plant - Leaves
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantLeaves
-
 - aggregation_target: false
-  id: plantNeedles
+  id: https://w3id.org/crahub/TIS--0c75c04f3c
   short_name: plantNeedles
   name: Plant - needles
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantNeedles
-
 - aggregation_target: false
-  id: plantRoot
+  id: https://w3id.org/crahub/TIS--fb92029d25
   short_name: plantRoot
   name: Plant - root
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantRoot
-
 - aggregation_target: false
-  id: plantFruit
+  id: https://w3id.org/crahub/TIS--bf71238e49
   short_name: plantFruit
   name: Plant - fruit
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantFruit
-
 - aggregation_target: false
-  id: plantBark
+  id: https://w3id.org/crahub/TIS--dd827b5678
   short_name: plantBark
   name: Plant - bark
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantBark
-
 - aggregation_target: false
-  id: plantWood
+  id: https://w3id.org/crahub/TIS--48ea5e8ac8
   short_name: plantWood
   name: Plant - wood
-  parent_matrix: plant
+  parent_matrix: https://w3id.org/crahub/TIS--9ea0a36b3a
   unique_name: plantWood
-
 - aggregation_target: false
-  id: animal
+  id: https://w3id.org/crahub/TIS--1e4483e833
   short_name: animal
   name: Animal
-  parent_matrix:
+  parent_matrix: null
   unique_name: animal
-
 - aggregation_target: false
-  id: animalBlood
+  id: https://w3id.org/crahub/TIS--241f618b36
   short_name: animalBlood
   name: Animal - blood
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalBlood
-
 - aggregation_target: false
-  id: animalLiver
+  id: https://w3id.org/crahub/TIS--473300a83f
   short_name: animalLiver
   name: Animal - liver
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalLiver
-
 - aggregation_target: false
-  id: animalKidney
+  id: https://w3id.org/crahub/TIS--c29c5f5fbb
   short_name: animalKidney
   name: Animal - kidney
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalKidney
-
 - aggregation_target: false
-  id: animalMuscle
+  id: https://w3id.org/crahub/TIS--361ca917ea
   short_name: animalMuscle
   name: Animal - muscle
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalMuscle
-
 - aggregation_target: false
-  id: animalFat
+  id: https://w3id.org/crahub/TIS--25b64c6209
   short_name: animalFat
   name: Animal - fat
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalFat
-
 - aggregation_target: false
-  id: animalHair
+  id: https://w3id.org/crahub/TIS--71d9a04f08
   short_name: animalHair
   name: Animal - hair
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalHair
-
 - aggregation_target: false
-  id: animalEggs
+  id: https://w3id.org/crahub/TIS--7be9b47d07
   short_name: animalEggs
   name: Animal - eggs
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalEggs
-
 - aggregation_target: false
-  id: animalBone
+  id: https://w3id.org/crahub/TIS--b62e047afe
   short_name: animalBone
   name: Animal - bone
-  parent_matrix: animal
+  parent_matrix: https://w3id.org/crahub/TIS--1e4483e833
   unique_name: animalBone
