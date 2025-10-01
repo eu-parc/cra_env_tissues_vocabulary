@@ -84,13 +84,6 @@ envtissues:
   unique_name: animalKidney
 
 - aggregation_target: false
-  id: animalBlood
-  short_name: animalBlood
-  name: Animal - blood
-  parent_matrix: animal
-  unique_name: animalBlood
-
-- aggregation_target: false
   id: animalMuscle
   short_name: animalMuscle
   name: Animal - muscle
