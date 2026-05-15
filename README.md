@@ -1,3 +1,10 @@
+# This vocabulary has been superseded
+See: https://github.com/eu-parc/matrix-vocabulary
+
+
+
+
+
 # Template repo
 
 This repository can be used to start building your own vocabulary in a way that is compatible with the github actions as defined in `.github/workflows`.
